@@ -64,4 +64,5 @@ Ao fechar a janela ou clicar em "Cancelar", o programa salva o log e informa o f
 ![2 3](https://github.com/user-attachments/assets/0aad409f-eb7a-45b5-b984-3d8635231a55)
 
 O arquivo log_01.txt será gerado automaticamente na pasta exemplo_logs/ com o registro das teclas pressionadas durante a sessão.
+
 ![3](https://github.com/user-attachments/assets/bb959219-b446-4ca1-bc8e-a5063d9961fe)
