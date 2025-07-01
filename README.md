@@ -32,7 +32,7 @@
 ### Instale as dependências
 Abra o terminal na pasta do projeto e instale a biblioteca necessária com:
 
-pip install pynput
+- pip install pynput
 
 A biblioteca tkinter já vem embutida no Python padrão (Windows/Linux/macOS), então não precisa instalá-la separadamente.
 
@@ -42,6 +42,7 @@ A biblioteca tkinter já vem embutida no Python padrão (Windows/Linux/macOS), e
 ### 1 Janela Inicial
 Rode o script principal em seu terminal ou diretamente no VS Code:
 - keymonitor.py
+
 A janela inicial será exibida com a identidade visual do projeto.
 
 ![1](https://github.com/user-attachments/assets/d47809ef-f04d-4e5a-b0fb-d55fa6a9245e)
