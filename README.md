@@ -67,3 +67,9 @@ Ao fechar a janela ou clicar em "Cancelar", o programa salva o log e informa o f
 O arquivo log_01.txt será gerado automaticamente na pasta exemplo_logs/ com o registro das teclas pressionadas durante a sessão.
 
 ![3](https://github.com/user-attachments/assets/bb959219-b446-4ca1-bc8e-a5063d9961fe)
+
+
+## Autor
+Professor: Max Müller
+
+Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
