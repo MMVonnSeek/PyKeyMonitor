@@ -1,5 +1,11 @@
 # PyKeyMonitor Educacional
 
+![Autor](https://img.shields.io/badge/Autor-Max_Müller-blue?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Ethical](https://img.shields.io/badge/Ethical_Use-Apenas_Com_Consentimento-red?style=for-the-badge&logo=security)
+![Cyber Education](https://img.shields.io/badge/Educação-Simulação_Cibersegurança-blueviolet?style=for-the-badge&logo=hackaday)
+
+
 **PyKeyMonitor Educacional** é um projeto desenvolvido com fins **exclusivamente didáticos**, voltado para a demonstração ética de técnicas de captura de teclas (keylogging) em ambientes controlados, com consentimento explícito do usuário.
 
 ### Objetivos do projeto
