@@ -29,10 +29,29 @@
 > É um recurso de aprendizado e demonstração para fins pedagógicos, voltado ao ensino de cibersegurança, programação defensiva e design responsável de software.
 
 ---
-### Instale as dependências
-Abra o terminal na pasta do projeto e instale a biblioteca necessária com:
 
-- pip install pynput
+## Como Executar
+
+1. Faça um Fork do Repositório:
+Antes de tudo, crie sua própria cópia deste projeto:
+
+- Clique no botão Fork no canto superior direito do GitHub.
+
+- Isso criará uma versão do repositório na sua conta.
+
+2. Clone o Seu Repositório Forkado:
+
+```
+git clone https://github.com/SEU-USUARIO/PyKeyMonitor.git
+cd PyKeyMonitor
+```
+###### Substitua SEU-USUARIO pelo nome do seu GitHub.
+
+3. Instale as dependências:
+pip install pynput
+
+
+4. Execute o projeto:
 
 A biblioteca tkinter já vem embutida no Python padrão (Windows/Linux/macOS), então não precisa instalá-la separadamente.
 
