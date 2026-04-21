@@ -94,6 +94,19 @@ O arquivo log_01.txt será gerado automaticamente na pasta exemplo_logs/ com o r
 ![3](https://github.com/user-attachments/assets/bb959219-b446-4ca1-bc8e-a5063d9961fe)
 
 
+---
+
+## 💖 Apoie este projeto
+
+Se este projeto te ajudou, considere apoiar ❤️
+
+Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
+
+👉 https://github.com/sponsors/MMVonnSeek
+
+Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
+
+---
 ----------
 
 ## Contribuição
